@@ -1,0 +1,1 @@
+{"version":1,"partitions":[{"topic":"skcc-college","partition":0,"replicas":[2,4,5],"log_dirs":["any","any","any"]},{"topic":"skcc-college","partition":1,"replicas":[3,5,1],"log_dirs":["any","any","any"]},{"topic":"skcc-college","partition":2,"replicas":[4,1,2],"log_dirs":["any","any","any"]}]}

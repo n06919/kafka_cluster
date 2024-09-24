@@ -3,8 +3,7 @@
 ```
 $ git clone https://github.com/n06919/kafka_cluster.git 
 $ cd kafka_cluster
-$ cp server.zip ~/workspace/kafka_2.13-3.8.0/
-$ unzip server.zip
+$ cp -R server ~/workspace/kafka_2.13-3.8.0/
 $ cd ~/workspace/kafka_2.13-3.8.0/
 ```
 
